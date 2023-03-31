@@ -1,6 +1,6 @@
 # DB - Database
-Laboratory of Database, Computer Science Course - A.Y. 2021/2022
-Department of Computer Science, University of Turin
+Laboratory of Database, Computer Science Course - A.Y. 2021/2022  
+Department of Computer Science, University of Turin  
 Teachers: Ruggero Gaetano Pensa, fabiana Vernero
 
 ## Lab project
